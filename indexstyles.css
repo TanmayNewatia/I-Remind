@@ -97,6 +97,7 @@ input[type=search]:focus-visible {
     font-size: 2.0rem;
     padding: 0 15px;
     color: orange;
+    cursor: pointer;
 }
 
 .acc>.wrap {
